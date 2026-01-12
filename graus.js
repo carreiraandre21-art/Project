@@ -14,5 +14,6 @@ if ( tempF >= 90 ) {
 } else if ( tempF <= 64 ) { 
     console.log( `muito frio, fique em casa `)
 }  else {
-    console.log ( `esta normal vai trabaia caraio`)
+    console.log ( `esta normal vai trabaia `)
 }
+
